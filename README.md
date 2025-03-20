@@ -1,0 +1,1 @@
+Fracture Detection in X-rays: A deep learning-based approach for identifying and localizing fractures in radiographic images. Exploring CNNs, Transformers, and training strategies for improved accuracy.
